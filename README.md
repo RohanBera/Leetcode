@@ -5,10 +5,12 @@
 - Collapsable markdown?? Nice.
 
 <details>
-    <summary style="font-size:20px">February 2021 </summary>
+<summary style="font-size:20px">February 2021 </summary>
 
 <details>
 <summary style="font-size:18px"> <b>Day 1</b> - Number of 1 Bits </summary>
+
+<br />
 
 A function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
 
