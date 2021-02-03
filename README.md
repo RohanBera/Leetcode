@@ -1,3 +1,9 @@
+<style> 
+    summary {
+        font-size: 30px;
+    }
+</style>
+
 # LeetCode 
 
 - LeetCoding challenge 2021
