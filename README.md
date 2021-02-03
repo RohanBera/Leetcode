@@ -26,7 +26,6 @@ Eg - <br />
     * **Output**: 1
     * **Explaination**: The input 32 (binary string  0000000000000000000000000100000) has a total of 1 '1' bit.
 </details>
-
 <details>
 <summary style="font-size:18px"> <b>Day 2</b> - Trimming a binary tree </summary>
 
