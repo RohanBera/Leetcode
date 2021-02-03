@@ -37,16 +37,16 @@ Given the <mark>root</mark> of a binary search tree and the lowest and highest b
 Eg - <br />
 
 1. 
-    * **Input**: root = [1,0,2], low = 1, high = 2
-    * **Output**: [1,null,2]
+* **Input**: root = [1,0,2], low = 1, high = 2
+* **Output**: [1,null,2]
 
 2. 
-    * **Input**: root = [3,0,4,null,2,null,null,1], low = 1, high = 3
-    * **Output**: [3,2,null,1]
+* **Input**: root = [3,0,4,null,2,null,null,1], low = 1, high = 3
+* **Output**: [3,2,null,1]
 
 3. 
-    * **Input**: root = [1,null,2], low = 1, high = 3
-    * **Output**: [1,null,2]
+* **Input**: root = [1,null,2], low = 1, high = 3
+* **Output**: [1,null,2]
     
 </details>
 </li>
