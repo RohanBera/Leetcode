@@ -114,7 +114,7 @@
    
 *
    <details>
-   <summary> Feb 4 </summary>
+   <summary> Feb 5 </summary>
 
    ### Simplify Path
 
@@ -128,17 +128,19 @@
    *Return the simplified **canonical path**.*
 
    1. 
-      * **Input**: nums = [1,3,2,2,5,2,3,7]
-      * **Output**: 5
-      * **Explanation**:  The longest harmonious subsequence is [3,2,2,2,3].
+      * **Input**: path = "/home/"
+      * **Output**: "/home"
+      * **Explanation**:  Note that there is no trailing slash after the last directory name.
 
    2. 
-      * **Input**: nums = [1,2,3,4]
-      * **Output**: 2
+      * **Input**: path = "/../"
+      * **Output**: "/"
+      * **Explanation**: Going one level up from the root directory is a no-op, as the root level is the highest level you can go.
 
    3. 
-      * **Input**: nums = [1,1,1,1]
-      * **Output**: 0
+      * **Input**: path = "/home//foo/"
+      * **Output**: "/home/foo"
+      * **Explaination**: In the canonical path, multiple consecutive slashes are replaced by a single one.
 
    </details>
    
