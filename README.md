@@ -12,7 +12,7 @@
 
 *
    <details>
-   <summary> Day 1 </summary>
+   <summary> Feb 1 </summary>
 
    ### Number of 1 Bits
    
@@ -33,7 +33,7 @@
 
 *
    <details>
-   <summary> Day 2 </summary>
+   <summary> Feb 2 </summary>
 
    ### Trimming a binary tree 
 
@@ -57,7 +57,7 @@
 
 *
    <details>
-   <summary> Day 3 </summary>
+   <summary> Feb 3 </summary>
 
    ### Trimming a binary tree 
 
@@ -86,7 +86,7 @@
 
 *
    <details>
-   <summary> Day 4 </summary>
+   <summary> Feb 4 </summary>
 
    ### Longest Harmonious Subsequence
 
@@ -111,4 +111,5 @@
       * **Output**: 0
 
    </details>
+   
 </details>
