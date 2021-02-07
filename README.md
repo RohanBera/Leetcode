@@ -5,6 +5,13 @@
 - Collapsable markdown?? Nice.
 - No support for css, but has emojis :expressionless:. Great. 
 
+<!-------------- Daily challanges  ------------>
+
+<details>
+<summary>Daily Challanges </summary>
+
+## Daily Challange 2021
+
 *
    <details>
    <summary>Feb 2021 </summary>
@@ -95,3 +102,108 @@
       </details>
       
    </details>
+
+</details>
+
+<!-------------- Weekly challanges  ------------>
+
+<details>
+<summary>Weekly Challanges</summary>
+
+## Weekly Challenges
+
+*
+   <details>
+   <summary>Weekly Contest 227</summary>
+
+   ## Weekly Contest 227
+
+   *
+      <details>
+      <summary>Check if Array Is Sorted and Rotated (3 points)</summary>
+
+      ### 1752. Check if Array Is Sorted and Rotated
+
+      Given an array `nums`, return `true` if the array was originally sorted in non-decreasing order, then rotated some number of positions (including zero). Otherwise, return `false`.
+
+      There may be **duplicates** in the original array.
+
+      Note: An array `A` rotated by `x` positions results in an array `B` of the same length such that `A[i] == B[(i+x) % A.length]`, where % is the modulo operation.
+
+      Click [here](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) for more details
+
+      </details>
+      
+   *
+      <details>
+      <summary>Check if Array Is Sorted and Rotated (3 points)</summary>
+
+      ### 1753. Maximum Score From Removing Stones
+
+      **Time limit exceeded**
+
+      You are playing a solitaire game with three piles of stones of sizes `a`, `b`, and 'c' respectively. Each turn you choose two different non-empty piles, take one stone from each, and add 1 point to your score. The game stops when there are fewer than two non-empty piles (meaning there are no more available moves).
+
+      Given three integers `a`, `b`, and `c`, return the maximum score you can get.
+
+      Click [here](https://leetcode.com/problems/maximum-score-from-removing-stones/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Largest Merge Of Two Strings (5 points)</summary>
+
+      ### 1754. Largest Merge Of Two Strings
+
+      **Didnt do**
+
+      Click [here](https://leetcode.com/problems/largest-merge-of-two-strings/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Closest Subsequence Sum (6 points)</summary>
+
+      ### 1755. Closest Subsequence Sum
+
+      **Didnt do**
+
+      You are given an integer array `nums` and an integer `goal`.
+
+      You want to choose a subsequence of `nums` such that the sum of its elements is the closest possible to `goal`. That is, if the `sum` of the subsequence's elements is sum, then you want to minimize the absolute difference `abs(sum - goal)`.
+
+      Return the minimum possible value of `abs(sum - goal)`.
+
+
+      Click [here]() for more details
+
+      </details>
+
+   </details>
+
+</details>
+
+<!-------------- Bi weekly challanges  ------------>
+
+<details>
+<summary>Bi-weekly Challanges </summary>
+
+## Bi-weekly Challanges 
+
+*
+   <details>
+   <summary>Weekly Contest 227</summary>
+
+   ## Bi-weekly Contest 45
+
+   *
+      <details>
+      <summary> </summary>
+
+      </details>
+
+   </details>
+
+</details>
