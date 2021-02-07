@@ -10,7 +10,7 @@
 <details>
 <summary>Daily Challanges </summary>
 
-## Daily Challange 2021
+# Daily Challange 2021
 
 *
    <details>
@@ -105,12 +105,14 @@
 
 </details>
 
+---
+
 <!-------------- Weekly challanges  ------------>
 
 <details>
 <summary>Weekly Challanges</summary>
 
-## Weekly Challenges
+# Weekly Challenges
 
 *
    <details>
@@ -133,10 +135,10 @@
       Click [here](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) for more details
 
       </details>
-      
+
    *
       <details>
-      <summary>Check if Array Is Sorted and Rotated (3 points)</summary>
+      <summary>Maximum Score From Removing Stones (4 points)</summary>
 
       ### 1753. Maximum Score From Removing Stones
 
@@ -185,12 +187,14 @@
 
 </details>
 
+---
+
 <!-------------- Bi weekly challanges  ------------>
 
 <details>
 <summary>Bi-weekly Challanges </summary>
 
-## Bi-weekly Challanges 
+# Bi-weekly Challanges 
 
 *
    <details>
@@ -200,7 +204,69 @@
 
    *
       <details>
-      <summary> </summary>
+      <summary>Sum of Unique Elements (3 points)</summary>
+
+      ### 1748. Sum of Unique Elements
+
+      You are given an integer array `nums`. The unique elements of an array are the elements that appear exactly once in the array.
+
+      Return the sum of all the unique elements of `nums`.
+
+      Click [here](https://leetcode.com/problems/sum-of-unique-elements/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Maximum Absolute Sum of Any Subarray (4 points)</summary>
+
+      ### 1749. Maximum Absolute Sum of Any Subarray
+
+      **Time limit exceeded**  
+
+      You are given an integer array `nums`. The absolute sum of a subarray `[numsl, numsl+1, ..., numsr-1, numsr]` is `abs(numsl + numsl+1 + ... + numsr-1 + numsr)`.
+
+      Return the maximum absolute sum of any (possibly empty) subarray of `nums`.
+      
+      Click [here](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Minimum Length of String After Deleting Similar Ends (4 points)</summary>
+
+      ### 1750. Minimum Length of String After Deleting Similar Ends
+
+      Given a string s consisting only of characters `'a'`, `'b'`, and `'c'`. You are asked to apply the following algorithm on the string any number of times:
+
+      - Pick a **non-empty** prefix from the string `s` where all the characters in the prefix are equal.
+      - Pick a **non-empty** suffix from the string `s` where all the characters in this suffix are equal.
+      - The prefix and the suffix should not intersect at any index.
+      - The characters from the prefix and suffix must be the same.
+      - Delete both the prefix and the suffix.
+      
+      Return the minimum length of s after performing the above operation any number of times (possibly zero times).
+
+      Click [here](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Maximum Number of Events That Can Be Attended II (6 points)</summary>
+
+      ### 1751. Maximum Number of Events That Can Be Attended II
+
+      **Didnt do**
+
+      You are given an array of `events` where `events[i] = [startDayi, endDayi, valuei]`. The ith event starts at startDayi and ends at endDayi, and if you attend this event, you will receive a value of valuei. You are also given an integer `k` which represents the maximum number of events you can attend.
+
+      You can only attend one event at a time. If you choose to attend an event, you must attend the entire event. Note that the end day is inclusive: that is, you cannot attend two events where one of them starts and the other ends on the same day.
+
+      Return the maximum sum of values that you can receive by attending events.
+
+      Click [here](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) for more details
 
       </details>
 
