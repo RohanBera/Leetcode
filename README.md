@@ -103,6 +103,20 @@
       
    </details>
 
+   *
+      <details>
+      <summary> Feb 7 </summary>
+
+      ### 821. Shortest Distance to a Character
+
+      Given a string `s` and a character `c` that occurs in `s`, return an *array of integers answer* where `answer.length == s.length` and `answer[i]` is the shortest distance from `s[i]` to the character `c` in `s`.
+
+      Click [here](https://leetcode.com/problems/shortest-distance-to-a-character/) for more details
+
+      </details>
+      
+   </details>
+
 </details>
 
 ---
@@ -179,7 +193,7 @@
       Return the minimum possible value of `abs(sum - goal)`.
 
 
-      Click [here]() for more details
+      Click [here](https://leetcode.com/contest/weekly-contest-227/problems/closest-subsequence-sum/) for more details
 
       </details>
 
@@ -198,7 +212,7 @@
 
 *
    <details>
-   <summary>Weekly Contest 227</summary>
+   <summary>Bi-weekly Contest 45</summary>
 
    ## Bi-weekly Contest 45
 
