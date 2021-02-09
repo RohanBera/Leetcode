@@ -101,8 +101,6 @@
 
       </details>
       
-   </details>
-
    *
       <details>
       <summary> Feb 7 </summary>
@@ -126,7 +124,6 @@
       Click [here](https://leetcode.com/problems/shortest-distance-to-a-character/) for more details
 
       </details>
-
 
    *
       <details>
