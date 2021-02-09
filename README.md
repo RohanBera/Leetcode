@@ -107,6 +107,18 @@
       <details>
       <summary> Feb 7 </summary>
 
+      ### 284. Peeking Iterator 
+
+      Given an Iterator class interface with methods: `next()` and `hasNext()`, design and implement a PeekingIterator that support the `peek()` operation -- it essentially peek() at the element that will be returned by the next call to next().
+
+      Click [here](https://leetcode.com/problems/peeking-iterator/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Feb 8 </summary>
+
       ### 821. Shortest Distance to a Character
 
       Given a string `s` and a character `c` that occurs in `s`, return an *array of integers answer* where `answer.length == s.length` and `answer[i]` is the shortest distance from `s[i]` to the character `c` in `s`.
@@ -114,7 +126,20 @@
       Click [here](https://leetcode.com/problems/shortest-distance-to-a-character/) for more details
 
       </details>
-      
+
+
+   *
+      <details>
+      <summary> Feb 9 </summary>
+
+      ### 1038. Convert BST to Greater Tree
+            
+      Given the `root` of a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus sum of all keys greater than the original key in BST.
+
+      Click [here](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) for more details
+
+      </details>
+
    </details>
 
 </details>
