@@ -180,11 +180,11 @@
       <details>
       <summary> Feb 13 </summary>
 
-      ### 1342. Shortest Path in Binary Matrix
+      ### 1091. Shortest Path in Binary Matrix
       
       In an N by N square grid, each cell is either empty (0) or blocked (1). Return the length of the shortest such clear path from top-left to bottom-right.  If such a path does not exist, return -1.
 
-      Click [here](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) for more details
+      Click [here](https://leetcode.com/problems/shortest-path-in-binary-matrix/) for more details
 
       </details>
 
@@ -192,11 +192,12 @@
       <details>
       <summary> Feb 14 </summary>
 
-      ### 1342. Number of Steps to Reduce a Number to Zero
+      ### 785. Is Graph Bipartite?
       
-      Given a non-negative integer num, return the number of steps to reduce it to zero. If the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
+      There is an undirected graph with `n` nodes, where each node is numbered between `0` and `n - 1`.
+      Return `true` if and only if it is *bipartite*.
 
-      Click [here](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) for more details
+      Click [here](https://leetcode.com/problems/is-graph-bipartite/) for more details
 
       </details>
 
