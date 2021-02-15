@@ -176,6 +176,30 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Feb 13 </summary>
+
+      ### 1342. Shortest Path in Binary Matrix
+      
+      In an N by N square grid, each cell is either empty (0) or blocked (1). Return the length of the shortest such clear path from top-left to bottom-right.  If such a path does not exist, return -1.
+
+      Click [here](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Feb 14 </summary>
+
+      ### 1342. Number of Steps to Reduce a Number to Zero
+      
+      Given a non-negative integer num, return the number of steps to reduce it to zero. If the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
+
+      Click [here](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) for more details
+
+      </details>
+
    </details>
 
 </details>
