@@ -201,6 +201,36 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Feb 15 </summary>
+
+      ### 1337. The K Weakest Rows in a Matrix
+
+      Given a `m * n` matrix `mat` of ones (representing soldiers) and zeros (representing civilians), return the indexes of the `k` weakest rows in the matrix ordered from the weakest to the strongest.
+
+      Click [here](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) for more details
+
+      </details>
+
+   </details>
+
+   *
+      <details>
+      <summary> Feb 16 </summary>
+
+      ### 784. Letter Case Permutation
+
+      Given a string S, we can transform every letter individually to be lowercase or uppercase to create another string.
+
+      Return a list of all possible strings we could create. 
+
+      Click [here](https://leetcode.com/problems/letter-case-permutation/) for more details
+
+      </details>
+
+   </details>
+
    </details>
 
 </details>
