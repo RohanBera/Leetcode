@@ -213,8 +213,6 @@
 
       </details>
 
-   </details>
-
    *
       <details>
       <summary> Feb 16 </summary>
@@ -228,8 +226,6 @@
       Click [here](https://leetcode.com/problems/letter-case-permutation/) for more details
 
       </details>
-
-   </details>
 
    </details>
 
@@ -315,6 +311,60 @@
 
    </details>
 
+*
+   <details>
+   <summary>Weekly Contest 228</summary>
+
+   ## Weekly Contest 228
+
+   *
+      <details>
+      <summary>Minimum Changes To Make Alternating Binary String</summary>
+
+      ### 1758. Minimum Changes To Make Alternating Binary String
+
+      Click [here](https://leetcode.com/contest/weekly-contest-228/problems/minimum-changes-to-make-alternating-binary-string/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Count Number of Homogenous Substrings</summary>
+
+      ### 1759. Count Number of Homogenous Substrings
+
+      **Didnt do**
+
+      Click [here](https://leetcode.com/contest/weekly-contest-228/problems/count-number-of-homogenous-substrings/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Minimum Limit of Balls in a Bag</summary>
+
+      ### 1760. Minimum Limit of Balls in a Bag
+
+      **Didnt do**
+
+      Click [here](https://leetcode.com/contest/weekly-contest-228/problems/minimum-limit-of-balls-in-a-bag/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Minimum Degree of a Connected Trio in a Graph5</summary>
+
+      ### 1761. Minimum Degree of a Connected Trio in a Graph5 
+
+      **Didnt do**
+
+      Click [here](https://leetcode.com/contest/weekly-contest-228/problems/minimum-degree-of-a-connected-trio-in-a-graph/) for more details
+
+      </details>
+
+   </details>
+   
 </details>
 
 ---
