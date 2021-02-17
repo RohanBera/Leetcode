@@ -20,7 +20,7 @@
 
    *
       <details>
-      <summary> Feb 1 </summary>
+      <summary> Feb 1: Number of 1 Bits</summary>
 
       ### 191. Number of 1 Bits
       
@@ -32,7 +32,7 @@
 
    *
       <details>
-      <summary> Feb 2 </summary>
+      <summary> Feb 2: Trimming a binary tree</summary>
 
       ### 669. Trimming a binary tree 
 
@@ -44,7 +44,7 @@
 
    *
       <details>
-      <summary> Feb 3 </summary>
+      <summary> Feb 3: Linked List Cycle</summary>
 
       ### 141. Linked List Cycle
 
@@ -58,7 +58,7 @@
 
    *
       <details>
-      <summary> Feb 4 </summary>
+      <summary> Feb 4: Longest Harmonious Subsequence</summary>
 
       ### 594. Longest Harmonious Subsequence
       We define a harmonious array as an array where the difference between its maximum value and its minimum value is **exactly** 1.
@@ -73,7 +73,7 @@
       
    *
       <details>
-      <summary> Feb 5 </summary>
+      <summary> Feb 5. Simplify Path</summary>
 
       ### 71. Simplify Path
       Given a string `path`, which is an **absolute path** (starting with a slash `'/'`) to a file or directory in a Unix-style file system, convert it to the simplified **canonical path**.
@@ -91,7 +91,7 @@
 
    *
       <details>
-      <summary> Feb 6 </summary>
+      <summary> Feb 6: Binary Tree Right Side View</summary>
 
       ### 199. Binary Tree Right Side View
 
@@ -103,7 +103,7 @@
       
    *
       <details>
-      <summary> Feb 7 </summary>
+      <summary> Feb 7: Peeking Iterator</summary>
 
       ### 284. Peeking Iterator 
 
@@ -115,7 +115,7 @@
 
    *
       <details>
-      <summary> Feb 8 </summary>
+      <summary> Feb 8: Shortest Distance to a Character </summary>
 
       ### 821. Shortest Distance to a Character
 
@@ -127,7 +127,7 @@
 
    *
       <details>
-      <summary> Feb 9 </summary>
+      <summary> Feb 9: Convert BST to Greater Tree</summary>
 
       ### 1038. Convert BST to Greater Tree
             
@@ -139,7 +139,7 @@
 
    *
       <details>
-      <summary> Feb 10 </summary>
+      <summary> Feb 10: Copy List with Random Pointer</summary>
 
       ### 138. Copy List with Random Pointer
 
@@ -154,7 +154,7 @@
 
    *
       <details>
-      <summary> Feb 11 </summary>
+      <summary> Feb 11: Valid Anagram</summary>
 
       ### 242. Valid Anagram
 
@@ -166,7 +166,7 @@
 
    *
       <details>
-      <summary> Feb 12 </summary>
+      <summary> Feb 12: Number of Steps to Reduce a Number to Zero</summary>
 
       ### 1342. Number of Steps to Reduce a Number to Zero
       
@@ -178,7 +178,7 @@
 
    *
       <details>
-      <summary> Feb 13 </summary>
+      <summary> Feb 13: Shortest Path in Binary Matrix</summary>
 
       ### 1091. Shortest Path in Binary Matrix
       
@@ -190,7 +190,7 @@
 
    *
       <details>
-      <summary> Feb 14 </summary>
+      <summary> Feb 14: Is Graph Bipartite?</summary>
 
       ### 785. Is Graph Bipartite?
       
@@ -203,7 +203,7 @@
 
    *
       <details>
-      <summary> Feb 15 </summary>
+      <summary> Feb 15: The K Weakest Rows in a Matrix</summary>
 
       ### 1337. The K Weakest Rows in a Matrix
 
@@ -215,7 +215,7 @@
 
    *
       <details>
-      <summary> Feb 16 </summary>
+      <summary> Feb 16: Letter Case Permutation</summary>
 
       ### 784. Letter Case Permutation
 
@@ -224,6 +224,18 @@
       Return a list of all possible strings we could create. 
 
       Click [here](https://leetcode.com/problems/letter-case-permutation/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Feb 17: Container With Most Water</summary>
+
+      ### 11. Container With Most Water
+
+      Given n non-negative integers `a1, a2, ..., an` , where each represents a point at coordinate `(i, ai)`. `n` vertical lines are drawn such that the two endpoints of the line `i` is at `(i, ai)` and `(i, 0)`. Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
+
+      Click [here](https://leetcode.com/problems/container-with-most-water/) for more details
 
       </details>
 
