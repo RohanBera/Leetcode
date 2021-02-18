@@ -239,6 +239,18 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Feb 18: Arithmetic Slices</summary>
+
+      ### 413. Arithmetic Slices
+      
+      A sequence of numbers is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.
+
+      Click [here](https://leetcode.com/problems/arithmetic-slices/) for more details
+
+      </details>
+
    </details>
 
 </details>
