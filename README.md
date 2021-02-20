@@ -488,6 +488,64 @@
 
       </details>
 
+*
+   <details>
+   <summary>Bi-weekly Contest 46</summary>
+
+   ## Bi-weekly Contest 46
+
+   *
+      <details>
+      <summary>Longest Nice Substring (3 points)</summary>
+
+      ### 1763. Longest Nice Substring
+
+      **Didnt do**
+      
+      A string `s` is nice if, for every letter of the alphabet that `s` contains, it appears both in uppercase and lowercase. For example, `"abABB"` is nice because `'A'` and `'a'` appear, and `'B'` and `'b'` appear. However, `"abA"` is not because `'b'` appears, but `'B'` does not.
+
+      Click [here](https://leetcode.com/problems/longest-nice-substring/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Form Array by Concatenating Subarrays of Another Array (4 points)</summary>
+
+      ### 1764. Form Array by Concatenating Subarrays of Another Array
+
+      You are asked if you can choose `n` disjoint subarrays from the array `nums` such that the `ith` subarray is equal to `groups[i]` (0-indexed), and if `i > 0`, the `(i-1)th` subarray appears before the `ith` subarray in `nums` (i.e. the subarrays must be in the same order as `groups`).
+
+      Click [here](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Map of Highest Peak (6 points)</summary>
+
+      ### 1765. Map of Highest Peak
+
+      You are given an integer matrix isWater of size m x n that represents a map of land and water cells.
+      
+      Click [here](https://leetcode.com/problems/map-of-highest-peak/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Tree of Coprimes (7 points)</summary>
+
+      ### 1766. Tree of Coprimes 
+
+      **Didnt do**
+
+      There is a tree (i.e., a connected, undirected graph that has no cycles) consisting of n nodes numbered from 0 to n - 1 and exactly n - 1 edges. Each node has a value associated with it, and the root of the tree is node 0.
+
+      Click [here](https://leetcode.com/problems/tree-of-coprimes/) for more details
+
+      </details>
+
    </details>
 
 </details>
