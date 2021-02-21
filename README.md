@@ -265,6 +265,30 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Feb 20: Roman to Integer</summary>
+
+      ### 13. Roman to Integer
+
+      Given a roman numeral, convert it to an integer.
+
+      Click [here](https://leetcode.com/problems/roman-to-integer/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Feb 21: Broken calculator</summary>
+
+      ### 991. Broken calculator
+
+      On a broken calculator that has a number showing on its display, we can perform two operations.
+
+      Click [here](https://leetcode.com/problems/broken-calculator/) for more details
+
+      </details>
+
    </details>
 
 </details>
