@@ -427,6 +427,57 @@
 
    </details>
    
+*
+   <details>
+   <summary>Weekly Contest 229</summary>
+
+   ## Weekly Contest 228
+
+   *
+      <details>
+      <summary>Merge Strings Alternately</summary>
+
+      ### 1768. Merge Strings Alternately
+
+      Click [here](https://leetcode.com/contest/weekly-contest-228/problems/minimum-changes-to-make-alternating-binary-string/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Minimum Number of Operations to Move All Balls to Each Box</summary>
+
+      ### 1769. Minimum Number of Operations to Move All Balls to Each Box
+
+      Click [here](https://leetcode.com/contest/weekly-contest-228/problems/count-number-of-homogenous-substrings/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Maximum Score from Performing Multiplication Operations</summary>
+
+      ### 1770. Maximum Score from Performing Multiplication Operations
+
+      **didnt work**
+
+      Click [here](https://leetcode.com/contest/weekly-contest-228/problems/minimum-limit-of-balls-in-a-bag/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Maximize Palindrome Length From Subsequences</summary>
+
+      ### 1771. Maximize Palindrome Length From Subsequences
+
+      **Didnt do**
+
+      Click [here](https://leetcode.com/contest/weekly-contest-228/problems/minimum-degree-of-a-connected-trio-in-a-graph/) for more details
+
+      </details>
+
+   </details>
 </details>
 
 ---
