@@ -12,7 +12,7 @@ class Solution {
         int sol = 0;
 
         while (x < y) {
-            x = x << 1;
+            x = x << 1; // multiplying 2 in bitops
             count++;
         }
 
@@ -20,8 +20,8 @@ class Solution {
         int diff = x - y;
 
         while (diff > 1) {
-            sol += diff >> count;
-            diff = diff % (1 << count);
+            sol += diff >> count; // divided by 2^n in bitops
+            diff = diff & ((1 << count) - 1); // mod 2^n in bitops
             count--;
         }
 
