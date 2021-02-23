@@ -301,6 +301,18 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Feb 23: Search a 2D Matrix II</summary>
+
+      ### 240. Search a 2D Matrix II
+
+      Write an efficient algorithm that searches for a target value in an m x n integer matrix. The matrix has the following properties.
+
+      Click [here](https://leetcode.com/problems/search-a-2d-matrix-ii/) for more details
+
+      </details>
+
    </details>
 
 </details>
