@@ -313,6 +313,18 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Feb 24: Score of Parentheses</summary>
+
+      ### 856. Score of Parentheses
+
+      Given a balanced parentheses string S, compute the score of the string based on the following rule:
+
+      Click [here](https://leetcode.com/problems/score-of-parentheses/) for more details
+
+      </details>
+
    </details>
 
 </details>
