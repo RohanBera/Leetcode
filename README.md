@@ -335,6 +335,16 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Feb 26: Validate Stack Sequences</summary>
+
+      ### 964. Validate Stack Sequences
+
+      Click [here](https://leetcode.com/problems/validate-stack-sequences/) for more details
+
+      </details>
+
    </details>
 
 </details>
