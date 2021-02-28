@@ -347,6 +347,18 @@
 
    </details>
 
+   *
+      <details>
+      <summary> Feb 27: Divide two Integers </summary>
+
+      ### 29. Divide two Integers
+
+      Click [here](https://leetcode.com/problems/divide-two-integers/) for more details
+
+      </details>
+
+   </details>
+
 </details>
 
 ---
