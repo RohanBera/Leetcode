@@ -367,6 +367,24 @@
 
    </details>
 
+*
+   <details>
+   <summary>Mar 2021 </summary>
+
+   ## March 2021
+
+   *
+      <details>
+      <summary> Mar 1 : Distribute Candies </summary>
+
+      ### 575. Distribute Candies
+
+      Click [here](https://leetcode.com/problems/distribute-candies/) for more details
+
+      </details>
+
+   </details>
+
 </details>
 
 ---
