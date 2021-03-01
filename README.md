@@ -525,7 +525,7 @@
    <details>
    <summary>Weekly Contest 229</summary>
 
-   ## Weekly Contest 228
+   ## Weekly Contest 229
 
    *
       <details>
@@ -572,6 +572,61 @@
       </details>
 
    </details>
+      
+*
+   <details>
+   <summary>Weekly Contest 230</summary>
+
+   ## Weekly Contest 230
+
+   *
+      <details>
+      <summary>Count Items Matching a Rule</summary>
+
+      ### 1773. Count Items Matching a Rule
+
+      Click [here](https://leetcode.com/problems/count-items-matching-a-rule/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Closest Dessert Cost</summary>
+
+      ### 1774. Closest Dessert Cost
+
+      **Didnt do**
+
+      Click [here](https://leetcode.com/problems/closest-dessert-cost/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Equal Sum Arrays With Minimum Number of Operations</summary>
+
+      ### 1775. Equal Sum Arrays With Minimum Number of Operations
+
+      **Didnt do**
+
+      Click [here](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary>Car Fleet II</summary>
+
+      ### 1776. Car Fleet II
+
+      **Didnt do**
+
+      Click [here](https://leetcode.com/problems/car-fleet-ii/) for more details
+
+      </details>
+
+   </details>
+
 </details>
 
 ---
