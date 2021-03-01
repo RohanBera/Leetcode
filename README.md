@@ -345,8 +345,6 @@
 
       </details>
 
-   </details>
-
    *
       <details>
       <summary> Feb 27: Divide two Integers </summary>
@@ -354,6 +352,16 @@
       ### 29. Divide two Integers
 
       Click [here](https://leetcode.com/problems/divide-two-integers/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Feb 28: Maximum frequency stack </summary>
+
+      ### 895. Maximum Frequency Stack
+
+      Click [here](https://leetcode.com/problems/maximum-frequency-stack/) for more details
 
       </details>
 
