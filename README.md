@@ -393,6 +393,16 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Mar 3 : Missing Number </summary>
+
+      ### 268. Missing Number 
+
+      Click [here](https://leetcode.com/problems/missing-number/) for more details
+
+      </details>
+
    </details>
 
 </details>
