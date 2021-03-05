@@ -415,6 +415,16 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Mar 5 : Average of Levels in Binary Tree </summary>
+
+      ### 637. Average of Levels in Binary Tree
+
+      Click [here](https://leetcode.com/problems/intersection-of-two-linked-lists/) for more details
+
+      </details>
+
    </details>
 
 </details>
