@@ -403,8 +403,6 @@
 
       </details>
 
-   </details>
-
    *
       <details>
       <summary> Mar 4 :  Intersection of Two Linked Lists</summary>
@@ -421,7 +419,17 @@
 
       ### 637. Average of Levels in Binary Tree
 
-      Click [here](https://leetcode.com/problems/intersection-of-two-linked-lists/) for more details
+      Click [here](https://leetcode.com/problems/average-of-levels-in-binary-tree/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Mar 6 : Short Encoding of Words </summary>
+
+      ### 820. Short Encoding of Words
+
+      Click [here](https://leetcode.com/problems/short-encoding-of-words) for more details
 
       </details>
 
