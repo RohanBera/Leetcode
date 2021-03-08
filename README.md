@@ -435,6 +435,32 @@
 
    </details>
 
+   *
+      <details>
+      <summary> Mar 7 : Design HashMap
+￼
+  </summary>
+
+      ### 706. Design HashMap
+
+      Click [here](https://leetcode.com/problems/design-hashmap/) for more details
+
+      </details>
+
+   </details>
+
+   *
+      <details>
+      <summary> Mar 8 : Remove Palindromic Subsequences </summary>
+
+      ### 1332. Remove Palindromic Subsequences
+
+      Click [here](https://leetcode.com/problems/remove-palindromic-subsequences/) for more details
+
+      </details>
+
+   </details>
+
 </details>
 
 ---
