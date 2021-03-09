@@ -433,21 +433,15 @@
 
       </details>
 
-   </details>
-
    *
       <details>
-      <summary> Mar 7 : Design HashMap
-￼
-  </summary>
+      <summary> Mar 7 : Design HashMap </summary>
 
       ### 706. Design HashMap
 
       Click [here](https://leetcode.com/problems/design-hashmap/) for more details
 
       </details>
-
-   </details>
 
    *
       <details>
@@ -456,6 +450,17 @@
       ### 1332. Remove Palindromic Subsequences
 
       Click [here](https://leetcode.com/problems/remove-palindromic-subsequences/) for more details
+
+      </details>
+
+
+   *
+      <details>
+      <summary> Mar 9 : Add One Row to Tree </summary>
+
+      ### 623. Add One Row to Tree
+
+      Click [here](https://leetcode.com/problems/add-one-row-to-tree/) for more details
 
       </details>
 
