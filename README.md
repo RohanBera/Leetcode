@@ -476,11 +476,21 @@
 
    *
       <details>
-      <summary> Mar 11 :  coin change</summary>
+      <summary> Mar 11 : Coin Change</summary>
 
       ### 322. Coin Change 
 
       Click [here](https://leetcode.com/problems/coin-change/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Mar 12 : Check If a String Contains All Binary Codes of Size K</summary>
+
+      ### 1461. Check If a String Contains All Binary Codes of Size K 
+
+      Click [here](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) for more details
 
       </details>
 
