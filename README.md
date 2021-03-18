@@ -494,6 +494,39 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Mar 13 : </summary>
+
+      ### 1461.
+
+      Click [here]() for more details
+Integer.signum(nums[i] - nums[i-1])
+
+      Click [here]() for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Mar 15 : </summary>
+
+      ### 1461.  
+
+      Click [here]() for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Mar 18 : Wiggle Subsequence </summary>
+
+      ### 367. Wiggle Subsequence
+
+      Click [here](https://leetcode.com/problems/wiggle-subsequence/) for more details
+
+      </details>
+
    </details>
 
 </details>
