@@ -537,6 +537,26 @@ Integer.signum(nums[i] - nums[i-1])
 
       </details>
 
+   *
+      <details>
+      <summary> Mar 20 : Keys and Rooms </summary>
+
+      ### 841. Keys and Rooms 
+
+      Click [here](https://leetcode.com/problems/keys-and-rooms/) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Mar 21 : Advantage Shuffle</summary>
+
+      ### 870. Advantage Shuffle
+
+      Click [here](https://leetcode.com/problems/advantage-shuffle/) for more details
+
+      </details>
+
    </details>
 
 </details>
