@@ -501,9 +501,6 @@
       ### 1461.
 
       Click [here]() for more details
-Integer.signum(nums[i] - nums[i-1])
-
-      Click [here]() for more details
 
       </details>
 
@@ -554,6 +551,24 @@ Integer.signum(nums[i] - nums[i-1])
       ### 870. Advantage Shuffle
 
       Click [here](https://leetcode.com/problems/advantage-shuffle/) for more details
+
+      </details>
+
+   </details>
+
+*
+   <details>
+   <summary>Apr 2021 </summary>
+
+   ## April 2021
+
+   *
+      <details>
+      <summary> Apr 1 : Palindrome Linked List </summary>
+
+      ### 234. Palindrome Linked List
+
+      Click [here](https://leetcode.com/problems/palindrome-linked-list/) for more details
 
       </details>
 
