@@ -572,6 +572,67 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Apr 2 : Ones and Zeroes (DP)</summary>
+
+      ### 474. Ones and Zeroes  
+
+      Click [here](https://leetcode.com/problems/ones-and-zeroes) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Apr 3 : Longest Valid Parentheses </summary>
+
+      ### 32. Longest Valid Parentheses 
+
+      Click [here](https://leetcode.com/problems/longest-valid-parentheses) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Apr 4 :  Design Circular Queue </summary>
+
+      ### 622. Design Circular Queue
+
+      Click [here](https://leetcode.com/problems/design-circular-queue) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Apr 5 : Global and Local Inversions </summary>
+
+      ### 775. Global and Local Inversions
+
+      Click [here](https://leetcode.com/problems/global-and-local-inversions) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Apr 6 : Minimum Operations to Make Array Equal </summary>
+
+      ### 1551. Minimum Operations to Make Array Equal
+
+      Click [here](https://leetcode.com/problems/minimum-operations-to-make-array-equal) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Apr 7 : </summary>
+
+      ### 
+
+      Click [here]() for more details
+
+      </details>
+
+
    </details>
 
 </details>
