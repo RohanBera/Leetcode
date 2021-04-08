@@ -624,11 +624,11 @@
 
    *
       <details>
-      <summary> Apr 7 : </summary>
+      <summary> Apr 7 : Determine if String Halves Are Alike</summary>
 
-      ### 
+      ### 1704. Determine if String Halves Are Alike
 
-      Click [here]() for more details
+      Click [here](https://leetcode.com/problems/determine-if-string-halves-are-alike) for more details
 
       </details>
 
