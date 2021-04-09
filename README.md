@@ -632,6 +632,25 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Apr 8 : Letter Combinations of a Phone Number</summary>
+
+      ### 17. Letter Combinations of a Phone Number
+
+      Click [here](https://leetcode.com/problems/letter-combinations-of-a-phone-number) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Apr 9 : Verifying an Alien Dictionary </summary>
+
+      ### 953. Verifying an Alien Dictionary
+
+      Click [here](https://leetcode.com/problems/verifying-an-alien-dictionary) for more details
+
+      </details>
 
    </details>
 
