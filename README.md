@@ -652,6 +652,26 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Apr 10 : Longest Increasing Path in a Matrix</summary>
+
+      ### 329. Longest Increasing Path in a Matrix
+
+      Click [here](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) for more details
+
+      </details>
+
+   *
+      <details>
+      <summary> Apr 11 : Deepest Leaves Sum</summary>
+
+      ### 1302. Deepest Leaves Sum
+
+      Click [here](https://leetcode.com/problems/deepest-leaves-sum) for more details
+
+      </details>
+
    </details>
 
 </details>
