@@ -674,6 +674,18 @@
 
    </details>
 
+   *
+      <details>
+      <summary> Apr 12 : Beautiful arrangement 2</summary>
+
+      ### 667. Beautiful Arrangement 2
+
+      Click [here](https://leetcode.com/problems/beautiful-arrangement-ii) for more details
+
+      </details>
+
+   </details>
+
 </details>
 
 ---
