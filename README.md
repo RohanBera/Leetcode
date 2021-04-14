@@ -684,6 +684,16 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Apr 13 : Flatten Nested List iterator</summary>
+
+      ### 341. Flatten Nested List Iterator
+
+      Click [here](https://leetcode.com/problems/flatten-nested-list-iterator) for more details
+
+      </details>
+      
    </details>
 
 </details>
