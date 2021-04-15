@@ -694,6 +694,16 @@
 
       </details>
       
+   *
+      <details>
+      <summary> Apr 14 :  Partition List</summary>
+
+      ### 86. Partition List
+
+      Click [here](https://leetcode.com/problems/partition-list) for more details
+
+      </details>
+      
    </details>
 
 </details>
