@@ -713,7 +713,17 @@
       Click [here](https://leetcode.com/problems/fibonacci-number) for more details
 
       </details>
-      
+            
+   *
+      <details>
+      <summary> Apr 23 : Count Binary Substrings   </summary>
+
+      ### 696. Count Binary Substrings   
+
+      Click [here](https://leetcode.com/problems/count-binary-substrings) for more details
+
+      </details>
+
    </details>
 
 </details>
