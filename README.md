@@ -724,6 +724,16 @@
 
       </details>
 
+   *
+      <details>
+      <summary> Apr 25 : Rotate Image </summary>
+
+      ### 48. Rotate image   
+
+      Click [here](https://leetcode.com/problems/rotate-image) for more details
+
+      </details>
+
    </details>
 
 </details>
